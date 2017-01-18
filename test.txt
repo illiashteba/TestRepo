@@ -1,12 +1,1 @@
-
-2016.09.29 Графік навчального процесу 2016/17 н.р
- Pdf Графік навчального процесу 2016/17 н.р.
-Понял(а), больше не показывать
-2016.01.04 НОВІ реквізити в оплаті за навчання від 01.01.2016
-Сумський державний університет
-
-м. Суми. вул. Р.-Корсакова, 2
-
-Р/р 31258290105677
-
-Банк ДКСУ
+we are not familiar with this theme, but it should be compatible as the module does not rely on any theme-specific features. If, however, there are issues, they will be investigated and if they are issues of the module, you will receive free support. If they are not, you will have to either contact themeforest or we will provide you with a quote for a paid customization to fix the theme issues.
